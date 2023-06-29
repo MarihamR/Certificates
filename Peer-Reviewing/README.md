@@ -1,5 +1,5 @@
 # Summary
-![Summary](MarihamRezk_WebOfScience_Researcher_CV_20230629.jpg)
+![Summary](imgs/MarihamRezk_WebOfScience_Researcher_CV_20230629.jpg)
 
 # Certificates
 ![Certificate 1](imgs/Reviewer-Certificate-1.png)
